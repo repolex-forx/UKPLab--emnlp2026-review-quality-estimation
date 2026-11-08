@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/emnlp2026-review-quality-estimation/commit/e434df47c95053740085f6936e90017a52ac3107",
       "git:hexsha": "e434df47c95053740085f6936e90017a52ac3107",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T07:22:44.451150+00:00"
     }
   ]
 }
